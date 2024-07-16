@@ -33,7 +33,7 @@ THEN the password is either displayed in an alert or written to the page
 ## Mock-Up
 The application displays a simplistic and easy-to-navigate interface where the user can generate a password by following prompt-based selections.
 
-![Password Generator Screenshot](<insert-image-link-here>)
+![Password Generator Screenshot](<images/passwordgenerator.jpg>)
 
 ## Installation
 To use the application, simply open the `index.html` file in any modern web browser.
